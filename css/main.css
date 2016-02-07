@@ -320,13 +320,13 @@ textarea {
   }
 
   .name {
-    font-size: 3.3em;
+    font-size: 3em;
     text-align: center;
   }
 
   .city {
     text-align: center;
-    font-size: 1.05em;
+    font-size: 0.94em;
   }
 
   .list-header {
@@ -347,7 +347,7 @@ textarea {
   }
 
   .publication {
-    font-size: 0.8em;
+    font-size: 0.7em;
     display: block;
     text-align: center;
   }
@@ -357,7 +357,7 @@ textarea {
     margin-bottom: 30px;
   }
   .work-list li a {
-    font-size: 1em;
+    font-size: 0.8em;
     display: block;
     margin-bottom: 5px;
   }
