@@ -135,6 +135,7 @@ textarea {
    }
 
    a {
+     transition: color 0.5s ease;
      color: #1fb3f6;
      text-decoration: none;
    }
